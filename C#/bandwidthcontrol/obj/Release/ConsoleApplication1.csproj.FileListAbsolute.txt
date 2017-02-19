@@ -1,0 +1,10 @@
+C:\Users\Enrique\Desktop\Ancho Banda Clase C#\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\Enrique\Desktop\Ancho Banda Clase C#\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\Enrique\Desktop\Ancho Banda Clase C#\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Enrique\Desktop\Ancho Banda Clase C#\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\Enrique\Desktop\Ancho Banda Clase C#\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+C:\Users\Enrique\Desktop\Proyectos en uso\Ancho Banda Clase C#\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Enrique\Desktop\Proyectos en uso\Ancho Banda Clase C#\ConsoleApplication1\bin\Release\Clase-bandwidth.exe
+C:\Users\Enrique\Desktop\Proyectos en uso\Ancho Banda Clase C#\ConsoleApplication1\bin\Release\Clase-bandwidth.pdb
+C:\Users\Enrique\Desktop\Proyectos en uso\Ancho Banda Clase C#\ConsoleApplication1\obj\Release\Clase-bandwidth.exe
+C:\Users\Enrique\Desktop\Proyectos en uso\Ancho Banda Clase C#\ConsoleApplication1\obj\Release\Clase-bandwidth.pdb

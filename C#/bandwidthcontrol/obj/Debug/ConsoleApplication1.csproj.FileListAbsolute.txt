@@ -1,0 +1,10 @@
+C:\Users\Enrique\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Enrique\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Enrique\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Enrique\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Enrique\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Enrique\Desktop\Ancho Banda Clase C#\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Enrique\Desktop\Ancho Banda Clase C#\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Enrique\Desktop\Ancho Banda Clase C#\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Enrique\Desktop\Ancho Banda Clase C#\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Enrique\Desktop\Ancho Banda Clase C#\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
